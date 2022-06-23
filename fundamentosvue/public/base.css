@@ -1,0 +1,13 @@
+/* color palette from <https://github.com/vuejs/theme> */
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@1,400;1,700&family=Poppins:ital,wght@0,300;1,300&display=swap')
+
+.body
+
+{
+
+background-color: #ccc;
+font-family: 'Lato', sans-serif;
+font-family: 'Poppins', sans-serif;
+
+
+}

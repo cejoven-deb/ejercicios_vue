@@ -1,2 +1,2 @@
 # ejercicios_vue
-Parte de todo vue
+# Parte de todo vue

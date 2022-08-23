@@ -12,5 +12,9 @@
   "devDependencies": {
     "@vitejs/plugin-vue": "^2.3.3",
     "vite": "^2.9.12"
-  }
+  },
+  "description": "This template should help get you started developing with Vue 3 in Vite.",
+  "main": "vite.config.js",
+  "author": "",
+  "license": "ISC"
 }

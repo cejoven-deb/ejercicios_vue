@@ -8,7 +8,6 @@
       <img  width="100" :src="url" > 
     </div>
   </div>
- <hr />
 </template>
 
 <script>
